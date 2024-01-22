@@ -74,3 +74,13 @@ The synthax is `git push`
 
 ![](./img/10.git_push.png)
 
+# heading 1
+## heading 2
+### heading 3
+#### heading 4
+
+_italic_
+
+- item 1
+- item 2
+- item 3
