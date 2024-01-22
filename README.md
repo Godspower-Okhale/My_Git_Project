@@ -49,3 +49,12 @@ Let say we have two branches A and B,and we want to add the contents of B into A
 Git branch can be deleted with the following command `git branch -d brach_name`
 
 ![](./img/07.deleting_git_branch.png)
+
+## git clone
+
+The git clone command help us make a copy of our remote repository in our local machine. see it as a git tool for downloading remote repository to our local machine.
+
+The command is `git clone <the link to your remote repository>`
+
+![](./img/08.git_clone.png)
+
