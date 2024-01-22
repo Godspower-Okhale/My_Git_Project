@@ -58,3 +58,19 @@ The command is `git clone <the link to your remote repository>`
 
 ![](./img/08.git_clone.png)
 
+## git log
+
+git log. The git log command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes.
+
+The synthax is `git log`
+
+![](./img/09.git_log.png)
+
+## git push
+
+The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch, but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
+
+The synthax is `git push`
+
+![](./img/10.git_push.png)
+
